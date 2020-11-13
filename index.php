@@ -21,7 +21,7 @@ if(isset($_POST['table']))
         <option value="Products">Products</option>
         <option value="Customers">Customers</option>
         <option value="Orders">Orders</option>
-        <option value="Order_Lines">Order Lines</option>
+        <option value="Orderdetails">Order Lines</option>
     </select>
 
     <input type="submit" value="Submit">

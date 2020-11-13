@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2218be71-202b-456e-9cd6-2b94da624341" name="Default Changelist" comment="Commit of index.php file added from DLE">
+      <change afterPath="$PROJECT_DIR$/dbFunctions.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605264033976</updated>
       <workItem from="1605264035108" duration="54000" />
-      <workItem from="1605264695807" duration="1101000" />
+      <workItem from="1605264695807" duration="6990000" />
     </task>
     <task id="LOCAL-00001" summary="Commit of index.php file added from DLE">
       <created>1605265350092</created>
@@ -62,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605265350092</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit of index.php file added from DLE">
+      <created>1605266041020</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605266041020</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Commit of index.php file added from DLE">
+      <created>1605266106312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605266106312</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,9 +100,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit of index.php file added from DLE" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1605265359719">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1605266110269">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1605265359719" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1605266110269" />
   </component>
 </project>
