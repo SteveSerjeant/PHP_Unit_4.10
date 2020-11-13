@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2218be71-202b-456e-9cd6-2b94da624341" name="Default Changelist" comment="" />
+    <list default="true" id="2218be71-202b-456e-9cd6-2b94da624341" name="Default Changelist" comment="Commit of index.php file added from DLE">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,11 +53,40 @@
       <option name="presentableId" value="Default" />
       <updated>1605264033976</updated>
       <workItem from="1605264035108" duration="54000" />
-      <workItem from="1605264695807" duration="402000" />
+      <workItem from="1605264695807" duration="1101000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit of index.php file added from DLE">
+      <created>1605265350092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605265350092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit of index.php file added from DLE" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit of index.php file added from DLE" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1605265359719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1605265359719" />
   </component>
 </project>
